@@ -11,7 +11,7 @@ lxml==4.5.0
 MarkupSafe==1.1.1
 numpy==1.18.1
 opencv-python-headless==4.1.2.30
-Pillow==7.0.0
+Pillow==9.0.0
 requests==2.22.0
 urllib3==1.25.8
 Werkzeug==0.16.1
